@@ -6,7 +6,7 @@ package com.linkedin.learning.mayordomo;
  */
 public class App {
     public static void main(String[] args) {
-	System.out.println("Hello World!");
+	System.out.println("Proyecto Maven Compilado V1");
 	for (String s : args) {
 	    System.out.println(decora(s));
 	}
